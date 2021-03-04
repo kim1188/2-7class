@@ -71,6 +71,7 @@
                     <th>금</th>
                   </tr>
                 <tbody>
+                 <center>
                   <tr height="80">
                     <th>1</th>
                     <td><a href="https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">영어1(박보라)</a></td><!--영어1(박보라 쌤) 줌 수업-->
@@ -127,14 +128,15 @@
                     <td><a href="https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">생물1</a></td><!--생물1 줌 수업-->
                     <td>　</td>
                   </tr>
+                 </center>
                 </tbody>
-          </table>
-        </div>
             <br><br>
             <hr><h3>학교 홈페이지</h3>
             <a href="https://hyosung.riroschool.kr/">효성고 리로스쿨</a><!--효성고 리로스쿨-->
             <a href="http://hyosung.hs.kr/index.php">효성고 홈페이지</a><!--효성고-->
             <br><br>
+          </table>
+        </div>
         <image src="시간표.jpg"></image>
         </center>
     </body>
