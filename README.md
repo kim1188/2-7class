@@ -117,7 +117,6 @@
                     <td><a href="https://us02web.zoom.us/j/9167725349?pwd=TW1SdXZSS1p6K2VwZ0lTSFZNY294dz09">미술(황현경)</a></td><!--미술(황현경 쌤) 줌 수업--> 
                     <td><a href="https://us02web.zoom.us/j/4501224672?pwd=U0k2RW5MN0s0WXMxd2JvSWFOdkNXQT09">화학1(이경민)</a></td><!--화학1(이경민 쌤) 줌 수업--> 
                     <td><a href="https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">특색(박보라)</a></td><!--특색(박보라 쌤) 줌 수업--> 
-                   
                     <td>　</td>
                   </tr>
                   <tr height="80">
@@ -128,7 +127,6 @@
                     <td><a href="https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">생물1</a></td><!--생물1 줌 수업-->
                     <td>　</td>
                   </tr>
-                  </tcenter>
                 </tbody>
           </table>
         </div>
