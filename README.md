@@ -128,7 +128,7 @@
                     <td><a href="https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">생물1</a></td><!--생물1 줌 수업-->
                     <td>　</td>
                   </tr>
-                  </center>
+                  </tcenter>
                 </tbody>
           </table>
         </div>
